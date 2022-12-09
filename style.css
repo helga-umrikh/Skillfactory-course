@@ -1,0 +1,19 @@
+body {
+    margin: 10 auto;
+    width: 70%;
+    text-align: center;
+    text-decoration-color: blue;   
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-style: Arial;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    size: 32px;
+}
+.table {
+    border-collapse: collapse;
+}
